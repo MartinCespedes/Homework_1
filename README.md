@@ -1,23 +1,49 @@
+## HTML CSS Git Challenge: Code Refactor
+
 [Link to Github](https://github.com/MartinCespedes/Homework_1)
+
+## License
+
+![License](https://img.shields.io/badge/LicenseMITyellow.svg)
+
+## Contents
+
+[User Story](#userstory)
+
+[Acceptance Criteria](#acceptancecriteria)
+
+[Application Screenshot Preview](#application-screenshot-preview)
+
+[Resources & Credit](#resourcescredit)
 
 ## User Story
 
-- AS A marketing agency
-- I WANT a codebase that follows accessibility standards
-- SO THAT our own site is optimized for search engines
+```md
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
 ## Acceptance Criteria
 
-- GIVEN a webpage meets accessibility standards
-- WHEN I view the source code
-- THEN I find semantic HTML elements
-- WHEN I view the structure of the HTML elements
-- THEN I find that the elements follow a logical structure independent of styling and positioning
-- WHEN I view the image elements
-- THEN I find accessible alt attributes
-- WHEN I view the heading attributes
-- THEN they fall in sequential order
-- WHEN I view the title element
-- THEN I find a concise, descriptive title
+```md
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
 
-![Module_1](./Develop/assets/images/digital-marketing-meeting.jpg)
+## Application Screenshot Preview
+
+![Module_1](./Develop/assets/images/digitalmarketingmeeting.jpg)
+
+## Resources/Credit
+
+- Starter Code Provided by UM Bootcamp
