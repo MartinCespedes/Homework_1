@@ -1,6 +1,6 @@
 ## HTML CSS Git Challenge: Code Refactor
 
-[Link to Github](https://martincespedes.github.io/Homework_1/)
+[Live Link to Application](https://martincespedes.github.io/Homework_1/)
 
 ## License
 
