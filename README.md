@@ -1,10 +1,10 @@
 ## HTML CSS Git Challenge: Code Refactor
 
-[Link to Github](https://github.com/MartinCespedes/Homework_1)
+[Link to Github](https://martincespedes.github.io/Homework_1/)
 
 ## License
 
-![License](https://img.shields.io/badge/LicenseMITyellow.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Contents
 
